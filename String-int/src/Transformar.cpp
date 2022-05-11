@@ -23,6 +23,7 @@ int Transformar::validacion(char* tipDato){
         ascii = dato[i];
         if(ascii < 47 || ascii >58 ){
             validez=0;
+            return 0;
         }
         else{
             validez=1;

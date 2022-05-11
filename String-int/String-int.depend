@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1652272883 source:c:\users\esteban\documents\materias s5\estructura de datos\codeblocks\string-int\main.cpp
+	<iostream>
+	<iostream>
+	<stdlib.h>
+	<typeinfo>
+	"Transformar.h"
+
+1652272883 c:\users\esteban\documents\materias s5\estructura de datos\codeblocks\string-int\include\transformar.h
+	<string>
+
+1652273075 source:c:\users\esteban\documents\materias s5\estructura de datos\codeblocks\string-int\src\transformar.cpp
+	"Transformar.h"
+	<iostream>
+	<sstream>
+

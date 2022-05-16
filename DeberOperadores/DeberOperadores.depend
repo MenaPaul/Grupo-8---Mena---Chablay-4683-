@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1652677227 source:c:\users\esteban\documents\materias s5\estructura de datos\codeblocks\deberoperadores\main.cpp
+	<iostream>
+	<bitset>
+	"Operadores.h"
+
+1652677081 source:c:\users\esteban\documents\materias s5\estructura de datos\codeblocks\deberoperadores\src\operadores.cpp
+	"Operadores.h"
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+
+1652677017 c:\users\esteban\documents\materias s5\estructura de datos\codeblocks\deberoperadores\include\operadores.h
+

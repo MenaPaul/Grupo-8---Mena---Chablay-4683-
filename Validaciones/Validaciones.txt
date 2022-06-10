@@ -1,0 +1,1 @@
+Validaciones de int, float, cedula ecuatoriana, string y paso a mayusculas

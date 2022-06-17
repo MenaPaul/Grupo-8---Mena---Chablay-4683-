@@ -189,12 +189,11 @@ string Menu::crearMenuTipoMatriz(string** opciones) {
 
 
 int Menu::menuPrincipal() {
-	string* opciones = new string[4];
+	string* opciones = new string[2];
 
 	*(opciones + 0) = "Infija a Postfija y Prefija";
-	*(opciones + 1) = "Postfija a Infija y Prefija";
-	*(opciones + 2) = "Prefija a Infija y Postdfija";
-	*(opciones + 3) = "Salir";
 
-	return crearMenu(" ||--|| Conversion de notaciones ||--|| ", opciones, 4);
+	*(opciones + 1) = "Salir";
+
+	return crearMenu(" ||--|| Conversion de notaciones ||--|| ", opciones, 2);
 }
